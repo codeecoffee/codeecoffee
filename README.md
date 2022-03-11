@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/huri3l/358e1089dadc78e4e9ed1965a497becb/raw/d7c9093d8939f1ca3a5a7e3386625e3ce20ed46b/githubbanner.svg"/>
 
 <h1 align="left">Hey, I'm Fellipe Lopes! 🤙</h1>
 <h3 align="left">And yes, I like code & coffee 🥃👨🏽‍💻😍</h3>
