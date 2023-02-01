@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey, I'm Fellipe Lopes! 🤙</h1>
+<h1 align="left">Hey, I'm Fellipe Lopes! </h1>
 <h3 align="left">And yes, I like code & coffee 🥃👨🏽‍💻😍</h3>
  
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fellipefl7/) 
