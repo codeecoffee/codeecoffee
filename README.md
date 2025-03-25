@@ -8,7 +8,7 @@
 
 ⏱ Currently learning Game Dev.
 
-🧶 Started coding at Portland State University and since then fell in love with it.
+🧶 Started coding and since then, fell in love with it.
 
 #### Skills
 <!--
